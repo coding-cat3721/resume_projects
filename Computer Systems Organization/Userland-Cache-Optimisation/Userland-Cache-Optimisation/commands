@@ -1,0 +1,14 @@
+# Bash commands to manually see the cache information
+
+# Compilation
+gcc -g optimized.c -o optimized
+
+# Specifically for this project:
+./run optimized
+
+## Manually done:
+# Valgrind
+valgrind --tool=cachegrind ./optimized
+
+# Cleaned up output using cg_annotate
+cg_annotate cachegrind.out.2717 --auto=yes
