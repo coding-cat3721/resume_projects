@@ -8,7 +8,7 @@ The goal of this assignment is to give you hands-on experience writing well-writ
 
 This game was created by:
 
-- `Jessy Huang, devils_advocate3721` (`Your GitHub ID Here as a link to your GitHub profile page`)
+- `Jessy Huang, coding_cat3721` (`Your GitHub ID Here as a link to your GitHub profile page`)
 https://github.com/java-assignments-spring2022/game-development-exercise-devils-advocate3721
 ## Starter code
 
