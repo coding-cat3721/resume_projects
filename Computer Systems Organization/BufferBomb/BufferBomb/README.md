@@ -1,8 +1,8 @@
-Project 1: Bufferbomb
-New York University
-Jessy Huang
-Spring 2023
-Professor Aljabbouli
+Project 1: Bufferbomb  
+New York University  
+Jessy Huang  
+Spring 2023  
+Professor Aljabbouli  
 
 Language(s): Assembly language (ASM), hexadecimal-encoding 
 
