@@ -1,8 +1,8 @@
 # Project 2: Cache Optimisation
-New York University
-Spring 2023
-Jessy Huang
-Professor Aljabbouli
+New York University  
+Spring 2023  
+Jessy Huang  
+Professor Aljabbouli  
 
 Language(s): C 
 
