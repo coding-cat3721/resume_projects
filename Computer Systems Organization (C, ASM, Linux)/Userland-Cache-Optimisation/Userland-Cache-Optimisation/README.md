@@ -1,5 +1,10 @@
-# CSCI-UA-201: Computer Systems Organisation, Project 2: Cache Optimisation
-By Jason Yao
+# Project 2: Cache Optimisation
+New York University
+Spring 2023
+Jessy Huang
+Professor Aljabbouli
+
+Language(s): C 
 
 ## Description
 A programme to show a deeper understanding of C optimisation in relation
@@ -8,13 +13,6 @@ programmes to minimise cache "cache misses", which can cause delays
 when executing code, due to the processor then having to either go to a 
 lower cache, or even to memory to retrieve the data it requires.
 
-Date: Spring, 2015
-
-Location: New York University
-
-Professor: Dr. Mohamed Zahran
-
-Language(s): C (On another note, if ever chatting with Dr.Zahran, ask him about his feelings on Java)
 
 ## Executing steps
 ### Compilation
