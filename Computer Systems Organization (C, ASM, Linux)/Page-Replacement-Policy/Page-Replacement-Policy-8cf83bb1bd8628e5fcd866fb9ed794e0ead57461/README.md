@@ -1,5 +1,10 @@
-# CSCI-UA-201: Computer Systems Organisation, Project 2: Cache Optimisation
-By Jason Yao
+# Project 3: Page Replacement Policy
+New York University
+Spring 2023
+Jessy Huang
+Professor Aljabbouli
+
+Languages: C
 
 ## Description
 This programme's purpose is to simulate several page replacement policies, 
@@ -8,13 +13,6 @@ in terms of performance.
 
 ![Lab 3 Programme Flow](img/lab3Flow.png)
 
-Date: Spring, 2015
-
-Location: New York University
-
-Professor: Dr. Mohamed Zahran
-
-Language(s): C (On another note, if ever chatting with Dr.Zahran, ask him about his feelings on Java)
 
 ## Executing steps
 ### Compilation
