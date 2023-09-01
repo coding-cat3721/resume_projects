@@ -1,8 +1,8 @@
 # Project 3: Page Replacement Policy
-New York University
-Spring 2023
-Jessy Huang
-Professor Aljabbouli
+New York University  
+Spring 2023  
+Jessy Huang  
+Professor Aljabbouli  
 
 Languages: C
 
