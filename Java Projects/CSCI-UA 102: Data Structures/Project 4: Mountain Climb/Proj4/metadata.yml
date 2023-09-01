@@ -1,0 +1,12 @@
+---
+:id: 152671393
+:submitters:
+- :name: Jessy Huang
+  :email: jh7305@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-06 03:32:31.508755000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-05 19:32:31.508755000 Z
+:status: processed
+:score: 83.5
